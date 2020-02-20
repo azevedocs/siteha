@@ -1,0 +1,26 @@
+h1 {
+    font-size: 60px;
+    font-family: "Tahoma";
+    text-align: center;
+    color: black;                               
+}
+
+
+.header-topo {
+	height: auto;
+}
+
+
+.header-topo ul {
+	height: auto;
+	background: black;
+}
+
+.header-topo ul a {
+	text-align: center;
+	font-family: "Open Sans Condensed", sans-serif;
+	color: #fff;
+	font-size: 20px;
+	line-height: 60px;
+	padding: 0 20px;
+}
